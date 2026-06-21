@@ -1,2 +1,14 @@
 # fixtureyoubo-notes
-HTML page archive and documentation
+
+静态页面发布集合
+
+页面发布任务会把结果保存到此仓库，方便统一管理。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 检查说明
+
+如需核对发布结果，可同时查看 GitHub 文件链接和 Pages 链接。
